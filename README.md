@@ -11,3 +11,14 @@ to close it on windows press the little arrow up on the taskbar and right click 
 hotkeys/keybinds:
 F2 joins server via provided link
 yup thats it for now
+
+
+DISCLAIMER
+This script is fully open source. You can read the code before running it.
+
+It does NOT:
+- Send data over the internet
+- Access files outside its purpose
+- Run anything hidden
+
+Feel free to review or modify it.
