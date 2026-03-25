@@ -13,12 +13,32 @@ F2 joins server via provided link
 yup thats it for now
 
 
-DISCLAIMER
-This script is fully open source. You can read the code before running it.
+## Disclaimer
+
+This script is fully open source. You are encouraged to read the code before running it.
 
 It does NOT:
-- Send data over the internet
-- Access files outside its purpose
-- Run anything hidden
 
-Feel free to review or modify it.
+* Send data over the internet
+* Access files outside its intended purpose
+* Execute hidden or obfuscated behavior
+
+## License Notice
+
+This project is licensed under the GNU General Public License v3.0 (GPLv3).
+
+You are free to use, modify, and share this code. However, any redistributed versions or modifications must also be open source under GPLv3 and must retain proper attribution to the original author.
+
+## Contributing
+
+Contributions are welcome!
+
+If you'd like to improve this script:
+
+* Fork the repository
+* Make your changes
+* Submit a pull request
+
+You can also open an issue to suggest features, improvements, or report bugs.
+
+All contributions must follow the GNU General Public License v3.0 (GPLv3).
